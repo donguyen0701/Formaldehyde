@@ -1,6 +1,3 @@
-Thong tin nhom:
-
-Nguyen Van A 10223071
 # Real-time Formaldehyde Measurement and Monitor system
 
 [!NOTE]
