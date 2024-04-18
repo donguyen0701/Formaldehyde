@@ -18,8 +18,8 @@
 //   https://www.adafruit.com/product/4000
 //   - Adafruit AirLift Breakout -> https://www.adafruit.com/product/4201
 
-#define WIFI_SSID "Hoa"
-#define WIFI_PASS "hoa12345"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 // uncomment the following line if you are using airlift
 //#define USE_AIRLIFT
