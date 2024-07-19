@@ -21,7 +21,7 @@ unsigned int BATT_flag = 0;
 const char* ssid = "Hoa";   // your Wifi's SSID (name) 
 const char* password = "hoa12345";   // your Wifi's password
 unsigned long myChannelNumber = 1; // Thingspeak's
-const char * myWriteAPIKey = "LYFK762J5FKILTPU"  ; // Thinkspeak's
+const char * myWriteAPIKey = ""  ; // Thinkspeak's
 
 float senSignal = 0.0;
 const int senPin = 33;
